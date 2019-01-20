@@ -1,5 +1,5 @@
 
-### <DIV ALIGN = CENTER>  Hello! </DIV>
+### <P ALIGN = CENTER>  Hello! </P>
 ### <DIV ALIGN = CENTER>  Welcome to my GitHub Page</DIV>
   
 ### <DIV ALIGN = CENTER> My Name is Rahul Singh. </DIV>
