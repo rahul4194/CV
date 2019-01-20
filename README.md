@@ -1,47 +1,16 @@
-## Rahul Singh Dhari
 
-## Welcome to GitHub Pages
-Hello!
-
+### <DIV ALIGN = CENTER>  Hello! </DIV>
+### <DIV ALIGN = CENTER>  Welcome to my GitHub Page</DIV>
+  
 My Name is Rahul Singh.
 
-I am a researcher having background in progressive damage modelling, composites, and impact/blast loading with Master's in Mechanical Engineering.
+I am a researcher with background in progressive damage modelling, composites, and impact/blast loading.
 
-You can use the [editor on GitHub](https://github.com/rahul4194/rahulsingh.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## My Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahul4194/rahulsingh.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-
+### Impact and blast analysis of a plate in thermal environment (Master's Dissertation)
+- Micro-mechanics based elastic-plastic response of fiber reinforced composites with strain rate dependent modeling using VUMAT subroutine in ABAQUS for impact and blast loading ([read more](http://tinyurl.com/blastanalysis)). 
+- Development of user interface using Python to link ABAQUS with the optimizer to optimize composite laminates under various loading conditions. 
+- Bio-inspired stacking sequence for fiber reinforced composites. 
+- Recipient of Student Research Program grant (ORSP/R\&D/PDPU/2017/RDNP) to build ballistic impact experimental setup at Dept. of Mechanical Engg, PDPU, Gandhinagar for the year 2017-2018. 
+- Manufacturing of Composite specimens using hand layup technique for testing in ballistic impact loading setup built from the research grant.
