@@ -2,7 +2,7 @@
 ### <DIV ALIGN = CENTER>  Hello! </DIV>
 ### <DIV ALIGN = CENTER>  Welcome to my GitHub Page</DIV>
   
-My Name is Rahul Singh.
+### <DIV ALIGN = CENTER> My Name is Rahul Singh. </DIV>
 
 I am a researcher with background in progressive damage modelling, composites, and impact/blast loading.
 
@@ -14,3 +14,12 @@ I am a researcher with background in progressive damage modelling, composites, a
 - Bio-inspired stacking sequence for fiber reinforced composites. 
 - Recipient of Student Research Program grant (ORSP/R\&D/PDPU/2017/RDNP) to build ballistic impact experimental setup at Dept. of Mechanical Engg, PDPU, Gandhinagar for the year 2017-2018. 
 - Manufacturing of Composite specimens using hand layup technique for testing in ballistic impact loading setup built from the research grant.
+
+### Thermal-based analysis of cooling assisted friction stir welding of dissimilar metals
+- A mathematical model to predict the properties of material mixture at the joint considering a material flow pattern of dissimilar Al-Cu joint.
+- Simulations of friction stir welding of similar and dissimilar materials in ABAQUS using user coded subroutines USDFLD and DFLUX and its experimental validation.
+
+### CFD Analysis of Wind Turbine Blade
+- Fluid-structure interaction(FSI) simulations to study the real-time deformation behavior of the blade under aerodynamic loading conditions using finite element analysis tool ANSYS FLUENT
+
+
